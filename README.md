@@ -4,4 +4,4 @@ chat.qaxramonov.uz
 
 
 docker orqali qoyilgan subdomain esa: 
-docker.qaxramonov.uz
+docker.qaxramonov,uz
